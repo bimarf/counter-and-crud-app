@@ -1,3 +1,3 @@
 # flutter_getx
 
-A new Flutter project.
+aplikasi counter dan crud sederhana dengan menggunakan GetX
